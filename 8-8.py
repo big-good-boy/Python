@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 def make_album(artist_name, album_name):
-    print("Артист: " + artist_name + ", " + "исполнитель: " + album_name)
+    print("Исполнитель: " + artist_name + ", " + "альбом: " + album_name)
 
 while True:
     print("\nПожалуйста, введите информацию об альбоме")
