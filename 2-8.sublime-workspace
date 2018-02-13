@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"names_magicians"
+			],
+			[
+				"nam",
+				"names_magicians"
+			],
+			[
+				"pt",
+				"print_models"
+			],
+			[
+				"com",
+				"completed_models"
+			],
+			[
+				"prin",
+				"print_models"
+			],
+			[
+				"co",
+				"completed_models"
+			],
+			[
+				"a",
+				"artist_name"
+			],
+			[
+				"artist",
+				"artist_name"
+			],
+			[
+				"al",
+				"album_name"
+			],
+			[
+				"arti",
+				"artist_name"
+			],
+			[
+				"cit",
+				"city_country"
+			],
+			[
+				"for",
+				"formatted_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"de",
+				"describe_city"
+			],
+			[
+				"pet",
+				"pet_name"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"conf",
+				"confirmed_user"
+			],
+			[
+				"con",
+				"confirmed_user"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"fa",
+				"favorite_languages"
+			],
+			[
+				"top",
+				"topping"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"ali",
+				"alien"
+			],
+			[
+				"alie",
+				"aliens"
+			],
+			[
+				"fav",
+				"favorite_languages"
+			],
+			[
+				"y",
+				"y_position"
+			],
+			[
+				"x",
+				"x_posotion"
+			],
+			[
+				"s",
+				"s_name"
+			],
+			[
+				"ues",
+				"user_info"
+			],
+			[
+				"lau",
+				"languages"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"pa",
+				"participant"
+			],
+			[
+				"cou",
+				"countries_and_rivers"
+			],
+			[
+				"favori",
+				"favorite_languages"
+			],
+			[
+				"x_",
+				"x_position"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"ch",
+				"cheese"
+			],
+			[
+				"dis",
+				"dishes"
+			],
+			[
+				"dim",
+				"dimensions"
+			],
+			[
+				"frie",
+				"friend_pizza"
+			],
+			[
+				"pizza",
+				"pizza_name"
+			],
+			[
+				"pi",
+				"pizza_names"
+			],
+			[
+				"f",
+				"friend_pizzas"
+			],
+			[
+				"list",
+				"list_numbers"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"li",
+				"list_numbers"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"p",
+				"pizza"
+			],
+			[
+				"ma",
+				"magician"
+			],
+			[
+				"по",
+				"помещения"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: Remove Package"
+			],
+			[
+				"su",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"s",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 397.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/good-boy/Work/python/python.txt",
+		"/home/good-boy/Work/python/greet_users.py",
+		"/home/good-boy/Work/python/printing_models.py",
+		"/home/good-boy/Work/python/8-9.py",
+		"/home/good-boy/Work/python/formatted_name.py",
+		"/home/good-boy/Work/python/person.py",
+		"/home/good-boy/Work/python/greeter.py",
+		"/home/good-boy/Work/python/8-7.py",
+		"/home/good-boy/Work/python/8-8.py",
+		"/home/good-boy/Work/python/8-6.py",
+		"/home/good-boy/Work/python/pets.py",
+		"/home/good-boy/Work/python/8-5.py",
+		"/home/good-boy/Work/python/8-3.py",
+		"/home/good-boy/Work/python/8-2.py",
+		"/home/good-boy/Work/python/8-1.py",
+		"/home/good-boy/Work/python/confirmed_user.py",
+		"/home/good-boy/Work/python/mountain_poll.py",
+		"/home/good-boy/Work/python/7-3.py",
+		"/home/good-boy/Work/python/7-2.py",
+		"/home/good-boy/Work/python/7-1.py",
+		"/home/good-boy/Work/python/even_or_odd.py",
+		"/home/good-boy/Work/python/rollercoaster.py",
+		"/home/good-boy/Work/python/parrot.py",
+		"/home/good-boy/Work/python/6-9.py",
+		"/home/good-boy/Work/python/6-8.py",
+		"/home/good-boy/Work/python/alien_2.py",
+		"/home/good-boy/Work/python/pizza_2.py",
+		"/home/good-boy/Work/python/favorite_languages_2.py",
+		"/home/good-boy/Work/python/user_2.py",
+		"/home/good-boy/Work/python/many_users_2.py",
+		"/home/good-boy/Work/python/6-1.py",
+		"/home/good-boy/Work/python/favorite_languages.py",
+		"/home/good-boy/Work/python/many_users.py",
+		"/home/good-boy/Work/python/aliens.py",
+		"/home/good-boy/Work/python/pizza.py",
+		"/home/good-boy/Work/python/user.py",
+		"/home/good-boy/Work/python/6-5.py",
+		"/home/good-boy/Work/python/alien.py",
+		"/home/good-boy/Work/python/5-11.py",
+		"/home/good-boy/Work/python/5-8.py",
+		"/home/good-boy/Work/python/5-10.py",
+		"/home/good-boy/Work/python/toppings.py",
+		"/home/good-boy/Work/python/5-3.py",
+		"/home/good-boy/Work/python/5-6.py",
+		"/home/good-boy/Work/python/amusement_park.py",
+		"/home/good-boy/Work/python/dimensions.py",
+		"/home/good-boy/Work/python/cars.py",
+		"/home/good-boy/Work/python/cars2.py",
+		"/home/good-boy/Work/python/4-13.py",
+		"/home/good-boy/Work/python/4-1.py",
+		"/home/good-boy/Work/python/foods.py",
+		"/home/good-boy/Work/python/4-3.py",
+		"/home/good-boy/Work/python/players.py",
+		"/home/good-boy/Work/python/numbers.py",
+		"/home/good-boy/Work/python/squares.py",
+		"/home/good-boy/Work/python/even_numbers.py",
+		"/home/good-boy/Yandex.Disk/mp3/mp3",
+		"/home/good-boy/Work/python/magicians.py",
+		"/home/good-boy/Work/python/3-8.py",
+		"/home/good-boy/Work/python/3-4.py",
+		"/home/good-boy/Work/python/motorcycles.py",
+		"/home/good-boy/Work/python/bicycles.py",
+		"/home/good-boy/Work/python/3-3.py",
+		"/home/good-boy/Work/python/3-2.py",
+		"/home/good-boy/Work/python/3-1.py",
+		"/home/good-boy/Work/python/birthday.py",
+		"/home/good-boy/Work/python/bicycles.pyc",
+		"/home/good-boy/python.txt",
+		"/home/good-boy/Документы/Sublime text 3 build 3143 (LICENSE KEYS ).txt",
+		"/home/good-boy/Work/python/name.py",
+		"/home/good-boy/Work/python/2-9.py",
+		"/home/good-boy/Work/python/hello_world.py",
+		"/home/good-boy/Work/HTMLAcademy/keksby/css/style.css",
+		"/home/good-boy/Work/HTMLAcademy/keksby/index.html",
+		"/home/good-boy/Work/Макеты/Критерии.txt",
+		"/home/good-boy/opt/WebStorm-173.4127.31/plugins/JavaScriptDebugger/extensions/jb.xpi",
+		"/home/good-boy/Work/Вёрстка/Люстры/css/style.css",
+		"/home/good-boy/Work/Вёрстка/Люстры/index.html",
+		"/usr/share/applications/vivaldi-stable.desktop",
+		"/home/good-boy/Загрузки/keksby-11-part/css/style.css",
+		"/home/good-boy/Загрузки/keksby-11-part/index.html",
+		"/home/good-boy/Загрузки/keksby-10-part/index.html",
+		"/home/good-boy/Загрузки/keksby-10-part/css/style.css",
+		"/home/good-boy/Загрузки/nots.txt",
+		"/home/good-boy/Загрузки/keksby-9-part/css/style.css",
+		"/home/good-boy/Загрузки/keksby-9-part/index.html",
+		"/home/good-boy/Загрузки/keksby-8-part/css/style.css",
+		"/home/good-boy/Загрузки/keksby-8-part/index.html",
+		"/home/good-boy/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/good-boy/.bashrc"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 53.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2-8.sublime-project",
+	"replace":
+	{
+		"height": 41.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
