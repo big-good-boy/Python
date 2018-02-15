@@ -50,3 +50,16 @@ range()
 input()       Поле для ввода данных (Python 2.7: raw_input())
 
 int()         Преобразование к числу
+
+Импортирование:
+Импортирование всего модуля:        import pizza
+Использование:                      pizza.make_pizza(16, 'pepperoni')
+Импортирование конкретных функций:  from pizza import make_pizza
+Использование:                      make_pizza(16, 'pepperoni')
+Назначение псевдонима для функции:  from pizza import make_pizza as mp
+Использование:                      mp(16, 'pepperoni')
+Назначение псевдонима для модуля:   import pizza as p
+Использование:                      p.make_pizza(16, 'pepperoni')
+Импортирование всех функций модуля: from pizza import *
+Использование:                      make_pizza(16, 'pepperoni')
+(не рекомендуется из-за возможных конфликтов имён)

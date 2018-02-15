@@ -17,11 +17,21 @@
 #     """Вывод списка заказанных дополнений."""
 #     print(toppings)
 
-def make_pizza(*toppings):
-    """Вывод списка заказанных дополнений."""
-    print("\nMaking a pizza with the following toppings:")
+# def make_pizza(*toppings):
+#     """Вывод списка заказанных дополнений."""
+#     print("\nMaking a pizza with the following toppings:")
+#     for topping in toppings:
+#         print("- " + topping)
+
+# make_pizza('popperoni')
+# make_pizza('mushrooms', 'green peppers', 'extra cheese')
+
+def make_pizza(size, *toppings):
+    """Выводит описание пиццы."""
+    print("\nMaking a " + str(size) +
+        "-inch pizza with the following toppings:")
     for topping in toppings:
         print("- " + topping)
 
-make_pizza('popperoni')
-make_pizza('mushrooms', 'green peppers', 'extra cheese')
+# make_pizza(16, 'popperoni')
+# make_pizza(12, 'mushrooms', 'green peppers', 'extra cheese')
