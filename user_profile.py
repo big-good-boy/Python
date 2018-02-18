@@ -1,16 +1,34 @@
-# -*- coding: utf-8 -*-
+# import user_profile_function
 
-def build_profile(first, last, **user_info):
-    """Строит словарь с информацией о пользователи"""
-    profile = {}
-    profile['first_name'] = first
-    profile['last_name'] = last
-    for key, value in user_info.items():
-        profile[key] = value
-    return profile
+# user_profile = user_profile_function.build_profile('albert', 'einstein',
+#                                                    location='princetin',
+#                                                    field='physics')
 
-user_profile = build_profile('albert', 'einstein',
-                             location='princetin',
-                             field='physics')
+# print(user_profile)
+
+
+# from user_profile_function import build_profile
+
+# user_profile = build_profile('albert', 'einstein',
+#                              location='princetin',
+#                              field='physics')
+
+# print(user_profile)
+
+
+# from user_profile_function import build_profile as profile
+
+# user_profile = profile('albert', 'einstein',
+#                        location='princetin',
+#                        field='physics')
+
+# print(user_profile)
+
+
+import user_profile_function as profile
+
+user_profile = profile.build_profile('albert', 'einstein',
+                                     location='princetin',
+                                     field='physics')
 
 print(user_profile)
