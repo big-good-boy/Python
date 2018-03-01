@@ -1,6 +1,6 @@
 filename = 'guest.txt'
 
-user = input()
+user = input("Как вас зовут: ")
 
-with open(filename, 'w') as string:
-  string.write(user)
+with open(filename, 'a') as string:
+  string.write(user + '\n')
